@@ -43,4 +43,11 @@ Tech-savvy Accountant with expertise in financial reporting, Inventory Managemen
 
 
 
+# 🌍 Connect With Me
+          - 📧 Email:           wisdomoffiong@gmail.com
+          - 💼 LinkedIn:        www.linkedin.com/in/wisdom-etteobong-offiong
+          - 🐙 GitHub:          https://github.com/Wisdom-Etteobong
+
+
+
         
