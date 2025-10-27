@@ -37,7 +37,7 @@ Tech-savvy Accountant with expertise in financial reporting, Inventory Managemen
 # 🧩  Projects
 
 
-# Education
+# Education & Certifications
          - Bachelor of Science (B.Sc) in Accounting (Second Class Upper - 4.25/5.0)
          - University Of  Nigeria, Nsukka (UNN)							    Oct 2018 - July 2023
 
