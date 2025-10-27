@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wisdom Offiong  
+# 👋 Hi, I'm Wisdom Etteobong 
 Tech-savvy Accountant with expertise in financial reporting, Inventory Management, bookkeeping, internal controls, and tax compliance. Proficient in QuickBooks and Excel, with solid knowledge of IFRS and tax laws (VAT, PAYE, WHT). Skilled in accounts payable/receivable, monthly closings, and budget tracking, with a proven record of supporting accurate financial decisions. Recognized for strong analytical, organizational, and tech-driven problem-solving skills.
 
 
