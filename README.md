@@ -38,7 +38,7 @@ Tech-savvy Accountant with expertise in financial reporting, inventory managemen
 
 
 # 🧩  Projects
-          - Account Receivables
+          - 
 
 
 # Education & Certifications
