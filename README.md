@@ -38,7 +38,7 @@ Tech-savvy Accountant with expertise in financial reporting, inventory managemen
 
 
 # 🧩  Projects
-          -  My Tech Project: https://github.com/Wisdom-Etteobong/Wisdom-Offiong
+          -  My Tech Project: @https://github.com/Wisdom-Etteobong/Wisdom-Offiong
 
 
 # Education & Certifications
