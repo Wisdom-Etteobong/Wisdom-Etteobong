@@ -41,6 +41,7 @@ Tech-savvy Accountant with expertise in financial reporting, inventory managemen
 <ul>
   <li><a href="https://github.com/your-username/my-awesome-project">My Awesome Project</a> - A brief description.</li>
   <li><a href="https://github.com/your-username/another-project">Another Project</a> - Description here.</li>
+ <li><a href="https://github.com/Wisdom-Etteobong/Wisdom-Offiong">Another Project</a> - Description here.</li> 
 </ul>
 
 
