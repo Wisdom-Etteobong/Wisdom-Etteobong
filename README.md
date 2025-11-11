@@ -37,15 +37,6 @@ Tech-savvy Accountant with expertise in financial reporting, inventory managemen
                   * Processed 50+ vendor and client transactions monthly with WHT and VAT regulations.        
 
 
-# 🧩  Projects
-<ul>
-  <li><a href="https://github.com/your-username/my-awesome-project">My Awesome Project</a> - A brief description.</li>
-  <li><a href="https://github.com/your-username/another-project">Another Project</a> - Description here.</li>
- <li><a href="https://github.com/Wisdom-Etteobong/Wisdom-Offiong">Tech Portfolio</a> - Description here.</li> 
-</ul>
-
-
-
 # Education & Certifications
          - Bachelor of Science (B.Sc) in Accounting (Second Class Upper - 4.25/5.0)
            University Of  Nigeria, Nsukka (UNN)		            Oct 2018 - July 2023
