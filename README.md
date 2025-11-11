@@ -6,7 +6,8 @@ Tech-savvy Accountant with expertise in financial reporting, inventory managemen
 - Google Sheets Automation
 - Microsoft Excel (Pivot Tables, VLOOKUP, Customizable Templates)
 - QuickBooks
-- ServQuick By Frugal 
+- ServQuick By Frugal
+- Payable.Africa
 
 
 # 👔 Professional Experiences
